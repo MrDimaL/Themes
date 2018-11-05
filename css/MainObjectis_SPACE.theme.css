@@ -1,0 +1,20 @@
+//META{"name":"MainObjectis_SPACE","description":"There is no DESCRIPTION here", "author":"MrDimaL","version":"0.1"}*//{}
+@import url(https://gitcdn.xyz/repo/Zerthox/ClearVision/master/css/ClearVision_v5.min.css);
+:root {
+	--main-color: #840094;
+	--hover-color: #1e63b3;
+    --background-blur: 0px;
+    --background-brightness: 100%;
+}
+body::after,
+.callout-backdrop,
+.user-popout::before,
+#user-profile-modal .header::before,
+#pubs-container::before,
+.auth-background,
+.auth-tiling-bg,
+.invite-modal .invite-splash,
+.radio-theme.light label,
+.radio-theme.dark label{
+    background-image: url(https://raw.githubusercontent.com/MrDimaL/Themes/master/images/space/space_1.jpg) !important;
+}
