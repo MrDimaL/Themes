@@ -1,2 +1,2 @@
-# Hello, hear you can find your image fo DISCORDTHEME
+# Hello, here you can find your image fo DISCORDTHEME
   !!!I think, that you are going to like it!!!
